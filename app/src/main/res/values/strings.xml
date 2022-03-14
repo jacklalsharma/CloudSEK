@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CloudSEKTest</string>
+    <string name="invalid_package_id">Invalid Package ID</string>
+</resources>
